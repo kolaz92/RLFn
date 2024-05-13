@@ -15,7 +15,6 @@ $ docker images
 4. Скопируйте IMAGE IG последнего образа и запустите контейнер командой 
 
 ```
-$ docker bulid .
 $ docker run -d -p 80:80 <IMAGE_ID>
 ```
 
